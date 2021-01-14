@@ -1,4 +1,4 @@
-AULA 01
+# AULA 01
 
 O que era o projeto Mono criado por Miguel de Icaza em 2001?
 Uma reimplementação black box do .NET, criado de forma independente por ele com foco em ser open source e multiplataforma.
@@ -30,7 +30,7 @@ Common Language Runtime
 Qual dos fatos a seguir não é verdadeiro?
 Em 2014 o empresário Satya Nadella compra a Microsoft e se torna sócio majoritário da empresa.
 
-AULA 02
+# AULA 02
 
 Qual dos itens abaixo é necessário ter instalado na máquina para desenvolver aplicações .NET?
 .NET SDK
@@ -62,7 +62,7 @@ Visual Studio Code.
 O que é uma aplicação console?
 Uma aplicação que é executada em um terminal.
 
-AULA 03
+# AULA 03
 
 Qual dos itens a seguir é exemplo de membro?
 Campos.
@@ -94,7 +94,7 @@ Assemblies.
 Quem converte os assemblies em Linguagem de Máquina?
 CLR
 
-AULA 04
+# AULA 04
 
 Quais destes são instruções para tratativa de exceções?
 try e catch
@@ -126,7 +126,7 @@ if e switch
 Qual destes não é exemplo de um tipo Referência?
 enum
 
-AULA 05
+# AULA 05
 
 Uma classe é uma estrutura de dados que combina:
 Estado e ações.
@@ -158,7 +158,7 @@ Ela está correta em partes, pois o internal só pode ser acessado por classes d
 Sobre métodos estáticos é correto afirmar:
 Todas as alternativas estão corretas.
 
-AULA 06
+# AULA 06
 
 O que é uma Interface em C#?
 Uma interface define um contrato que pode ser implementado por classes e structs.
